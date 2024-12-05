@@ -25,6 +25,14 @@ Month Average – Temporal trends in reviews.
 Summary – High-level overview of customer feedback.
 
 
+**Project View:**
+
+![image](https://github.com/user-attachments/assets/882b4d27-0e25-4c83-8c14-a2f0ff9dd862)
+![image](https://github.com/user-attachments/assets/7e43009c-23fc-4c64-aab5-6a60bb4cba9a)
+![image](https://github.com/user-attachments/assets/314ed0ad-d849-48d6-8abd-36bfb0b74452)
+![image](https://github.com/user-attachments/assets/a97513d5-a4ee-4acf-ba98-4a08f15b351a)
+
+
 **Expected Outcomes:**
 
 Identification of the best and worst-performing aircraft.
